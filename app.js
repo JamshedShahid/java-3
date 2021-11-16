@@ -127,7 +127,42 @@
 // names.setFullYear(2019,31,4)
 // document.write(names)
 
+// Q========
+// var nam =new Date()
+// if(15>nam.getDate()){
+//     alert("Fisrt 15 days of the Month")
+    
+// }
+// else{
+//     alert("LAst 15 days of the Month")
+    
+// }
 
+// // Q======
+// var nn = new Date()
+// document.write(nn)
+// var na =new Date("january 5 1998")
+// var nb =now.getTime()
+// document.write("miliseconds of january 5 1998" +nb +"<br>")
+// var no = Math.floor(nb/1000*60*60)
+// document.write("now time"+no)
+// incomplete
+
+
+
+// var n = new Date()
+
+// console.log(n.getHours() - 1)
+
+// var ou = new Date().setHours( n.getHours() - 1 )
+// console.log(ou);  
+
+// var c = new Date().getTime()
+
+
+// var d = c - ou;
+
+// console.log( Math.floor(d /( 1000  )))
 
 
 
